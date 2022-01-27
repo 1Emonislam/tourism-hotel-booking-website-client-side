@@ -1,9 +1,9 @@
 # Tourism Hotel Booking Client Side
 
 
-(Server Side Github Code] (https://github.com/1Emonislam/tourism-hotel-booking-website-server-side-1Emonislam)
+(Server Side Github Code] (https://github.com/1Emonislam/tourism-hotel-booking-website-server-side)
 
-[ClientSide Github Code] (https://github.com/1Emonislam/tourism-hotel-booking-website-client-side-1Emonislam)
+[ClientSide Github Code] (https://github.com/1Emonislam/tourism-hotel-booking-website-client-side)
 
 [Netlify Live] (https://tourismhotelbooking.netlify.app/)
 
