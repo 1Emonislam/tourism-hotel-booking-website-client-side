@@ -1,0 +1,61 @@
+.box-booking input,
+.box-booking textarea {
+	display: block;
+	margin: 15px auto;
+	width: 80%;
+	padding: 10px 20px;
+	border: 1px solid #ddd;
+	border-radius: 3px;
+}
+.box-booking input:focus,
+.box-booking textarea:focus {
+	border: 1px solid rgb(2, 122, 221);
+}
+@media (min-width: 768px) {
+	.box-booking {
+		background-color: white;
+		border: 1px solid #ddd;
+		padding: 26px 10px;
+		margin-bottom: 100px;
+	}
+	.top-title {
+		font-size: 30px;
+		margin: 30px 0;
+	}
+	.alert {
+		padding: 20px;
+		background-color: #7136f4;
+		color: white;
+		position: fixed;
+		z-index: 3233;
+		width: 20%;
+		right: 120px;
+		bottom: 55%;
+	}
+}
+@media (max-width: 768px) {
+	.alert {
+		padding: 20px;
+		background-color: #7136f4;
+		color: white;
+		position: fixed;
+		z-index: 3233;
+		width: 50%;
+		right: 0;
+		bottom: 70%;
+	}
+}
+.closebtn {
+	margin-left: 15px;
+	color: white;
+	font-weight: bold;
+	float: right;
+	font-size: 22px;
+	line-height: 20px;
+	cursor: pointer;
+	transition: 0.3s;
+}
+
+.closebtn:hover {
+	color: black;
+}

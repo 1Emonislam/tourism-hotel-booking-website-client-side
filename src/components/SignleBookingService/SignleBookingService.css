@@ -1,0 +1,22 @@
+.body {
+	border: 1px solid #ddd;
+}
+.body p {
+	margin-top: 0;
+	margin-bottom: 1 rem;
+	line-height: 1.8;
+	color: #3e3c3c;
+}
+@media (max-width: 768px) {
+	.bg-img-body {
+		padding: 100px 0;
+	}
+}
+@media (min-width: 768px) {
+	.bg-img-body {
+		padding: 200px 0;
+	}
+}
+small.text-small {
+	font-size: 12px;
+}

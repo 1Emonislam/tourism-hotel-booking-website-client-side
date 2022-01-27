@@ -1,0 +1,22 @@
+@media (max-width: 768px) {
+	.mobile-subscribe input {
+		width: 100% !important;
+		border: 1px solid #ddd;
+		margin-bottom: 15px !important;
+	}
+}
+.mobile-subscribe input {
+	border: 1px solid #ddd;
+}
+button.subscribe {
+	background: rgb(102, 1, 63);
+	color: white !important;
+	border-radius: 4px;
+	padding: 8px 25px;
+}
+button.subscribe:hover {
+	background: rgb(153, 17, 51);
+}
+input:focus {
+	outline: none;
+}

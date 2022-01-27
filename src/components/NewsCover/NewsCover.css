@@ -1,0 +1,17 @@
+.news-cover-brand img {
+	width: 150px;
+	cursor: pointer;
+	margin: 0 auto;
+	display: block;
+}
+
+@media (min-width: 768px) {
+	.news-cover-brand img {
+		padding: 40px 0;
+	}
+}
+@media (max-width: 768px) {
+	.news-cover-brand img {
+		border-bottom: 1px solid #ddd;
+	}
+}

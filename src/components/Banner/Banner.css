@@ -1,0 +1,17 @@
+@media (max-width: 768px) {
+}
+.banner {
+	position: relative;
+	top: 65px;
+	margin-bottom: 65px;
+	overflow: hidden;
+	display: block;
+}
+.banner .carousel-control-prev-icon {
+	display: none;
+}
+@media (min-width: 768px) {
+}
+.carousel-control-next-icon {
+	display: none;
+}

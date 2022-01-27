@@ -1,0 +1,16 @@
+.box-Order {
+	background: white;
+	padding: 10px 30px;
+	margin: 12px 0px;
+	color: black;
+	border: 1px solid #ddd;
+	box-shadow: 0px 0px 15px rgb(0 0 0 / 20%);
+	color: #343333;
+	border: 1px solid #ddd;
+	padding: 8px 20px;
+}
+.box-Order h4 {
+	border: 1px solid #ddd;
+	padding: 8px 20px;
+	font-size: 16px;
+}

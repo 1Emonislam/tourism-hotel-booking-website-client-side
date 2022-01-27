@@ -1,0 +1,49 @@
+@media (min-width: 768px) {
+	.box-google {
+		border: 1px solid #ddd;
+		width: 400px;
+		height: 300px;
+		margin: 50px auto;
+		padding: 30px 0;
+	}
+}
+@media (max-width: 768px) {
+	.box-google {
+		width: 95%;
+		border: 1px solid #ddd;
+		margin: 50px auto;
+		padding: 30px 0;
+	}
+}
+.box-google > p {
+	font-size: 15px;
+	margin-top: 10px;
+}
+.box-google > button {
+	border: 1px solid #ddd !important;
+	border-radius: 20px;
+}
+.box-google > button:hover {
+	border: 1px solid #ddd !important;
+	background: rgb(243, 241, 241);
+}
+.box-google .title {
+	font-weight: 700;
+}
+.google-btn img {
+	width: 40px;
+	height: 40px;
+	border-radius: 50%;
+}
+.google {
+	width: 70px;
+	height: 70px;
+	border: none;
+}
+button {
+	border: none;
+	background: white;
+}
+button:hover {
+	outline: none;
+}

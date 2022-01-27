@@ -1,0 +1,36 @@
+#footer-social li {
+	padding: 5px 10px;
+	background: rgb(231, 228, 228);
+	margin: 10px 10px;
+	border-radius: 5px;
+}
+#footer-social li a {
+	color: black;
+}
+@media (max-width: 768px) {
+	#footer ul {
+		margin-left: 0px !important;
+	}
+}
+
+footer#footer-part {
+	background: #f7f7f7;
+	padding-top: 50px;
+	font-size: 13px;
+}
+footer#footer-part ul li a:hover {
+	color: rgb(8, 102, 226);
+	margin-left: 5px;
+}
+footer#footer-part ul li a {
+	padding: 5px 0;
+	display: block;
+	transition: 0.5s;
+	color: #868585;
+	font-weight: 700;
+	font-size: 12px;
+}
+footer#footer-part ul li i {
+	padding-right: 8px;
+	display: inline-block;
+}

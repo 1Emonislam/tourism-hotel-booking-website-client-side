@@ -1,0 +1,6 @@
+@media (max-width: 400px) {
+	button.go-btn {
+		margin-left: 60px !important;
+		margin-top: 10px;
+	}
+}
